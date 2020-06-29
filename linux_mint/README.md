@@ -1,5 +1,9 @@
 # Linux Mint
 
+## Automount Samba shares 
+
+*xyz_share                -fstype=cifs,**vers=1.0**,rw...*
+
 ## Yakuake update : 18.3 -> 19
 
 *sudo apt install libkf5globalaccel-bin*
