@@ -1,3 +1,3 @@
 # experiments
 
-## [Linux Mint](linux_mint.md)
+## [Linux Mint](linux_mint/)
