@@ -12,3 +12,7 @@
 ## Wine 19.1 Problems
 
 *sudo apt-get install fonts-wine gnome-wine-icon-theme libwine q4wine  wine1.6-amd64 wine64-tools winetricks*
+
+## Start OpenVPN
+
+*sudo openvpn /etc/openvpn/client.conf*
